@@ -17,7 +17,7 @@ coverage
 
 # Turbo
 .turbo
-
+docs
 # Vercel
 .vercel
 
